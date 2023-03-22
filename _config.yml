@@ -1,1 +1,5 @@
-theme: jekyll-theme-minimal
+theme: minima
+title: Thai NER
+description: Thai Named Entity Recognition
+author: "PyThaiNLP"
+show_excerpts: true
